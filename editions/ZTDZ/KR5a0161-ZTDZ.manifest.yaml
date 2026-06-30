@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0161/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0161/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 易數鉤深圖遺論九事
+  date: '2015-08-28 23:39:20.356735'
+  source:
+    repository: kanripo
+    path: KR5a0161
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0161_000-ZTDZ.yaml, hash: 'sha256:1725b584aa9b05302629185650029ee95591c3ba1ee938e186892f8a7ac86402'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0161_000-ZTDZ.markers.yaml, hash: 'sha256:9cd9c78b30fb5b76866dcd99ee83da820f87e103446e77bd4f38a3195cb93ec5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0161_SJB_000-030217b
+    span:
+    - body
+    - 0
+    - 3434
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:254ac8c4fc895274f81e5691500c36d9b6e708bfa7536dcb0c62afd7d5bb4f8e
